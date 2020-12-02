@@ -1,0 +1,13 @@
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\bin\Debug\netcoreapp3.1\AdventofCode.exe
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\bin\Debug\netcoreapp3.1\AdventofCode.deps.json
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\bin\Debug\netcoreapp3.1\AdventofCode.runtimeconfig.json
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\bin\Debug\netcoreapp3.1\AdventofCode.runtimeconfig.dev.json
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\bin\Debug\netcoreapp3.1\AdventofCode.dll
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\bin\Debug\netcoreapp3.1\AdventofCode.pdb
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.csprojAssemblyReference.cache
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.csproj.CoreCompileInputs.cache
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.AssemblyInfoInputs.cache
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.AssemblyInfo.cs
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.dll
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.pdb
+C:\Users\alexander.austin\source\repos\AdventofCode\AdventofCode\obj\Debug\netcoreapp3.1\AdventofCode.genruntimeconfig.cache
