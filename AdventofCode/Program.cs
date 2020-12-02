@@ -23,11 +23,16 @@ namespace AdventofCode
 
             var resortRepair = new ResortRepair(path, int.Parse(desiredSum));
 
-            var res = resortRepair.GetSolution();
+            var res = resortRepair.GetSolution1();
 
-            Console.WriteLine("The sum is: " + res);
+            Console.WriteLine("The sum for problem 1 is : " + res);
 
-           
+            res = resortRepair.GetSolution2();
+
+            Console.WriteLine("The sum for problem 2 is : " + res);
+
+
+
         }
 
     }
