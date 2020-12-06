@@ -1,4 +1,5 @@
 ﻿using AdventofCode.BusinessLogic.Day1;
+using AdventofCode.BusinessLogic.Day4;
 using System;
 using System.IO;
 
@@ -14,7 +15,9 @@ namespace AdventofCode
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the Filename you would like to read from: ");
+
+            //Day 1 Solutions
+            /**Console.WriteLine("Enter the Filename you would like to read from: ");
             string filename = Console.ReadLine();
             Console.WriteLine("Enter the desired sum you would like to calculate from: ");
             string desiredSum = Console.ReadLine();
@@ -30,7 +33,18 @@ namespace AdventofCode
             res = resortRepair.GetSolution2();
 
             Console.WriteLine("The sum for problem 2 is : " + res);
+    **/
 
+
+            //Day 4 Solutions
+            Console.WriteLine("Enter the Filename you would like to read from: ");
+            string filename = Console.ReadLine();
+            string path = ASSET_PATH + filename;
+            var res = PassportProcessing.GetValidPassportCount(path, false);
+            Console.WriteLine("The Number of Valid Passports without validating data is: " + res);
+
+            res = PassportProcessing.GetValidPassportCount(path, true);
+            Console.WriteLine("The Number of Valid Passports with validating data is: " + res);
 
 
         }
